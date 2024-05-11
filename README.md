@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**FlorianLD/FlorianLD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working in a e-commerce pure player company, taking part in different projects as business analyst and team leader.
+The challenging and fast-changing nature of the e-commerce landscape has been a stimulating environment to build new products and solve complex problems while fostering a customer-centric mindset.
 
-Here are some ideas to get you started:
+As a cross-functional intermediary between business and IT, I’ve had the pleasure to work with people from various fields, on different ranges of problems, needs and ideas.
+My strong focus on process analysis, product discovery and business intelligence lets me identify problems accurately and find solutions on par with the company strategy.
+Having a keen interest for everything software-related has enabled me to develop a more solid product vision, ensuring a high value delivery in our transformation projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m always looking forward taking part in new projects and working on new products, from ideas to launch, and beyond.
+
+Business/Tech Stack:
+- Excel/Google Sheets
+- Power BI
+- Salesforce
+- Jira
+- Confluence
+- Postman
+- Figma
+- SQL/DAX/Python (pandas, selenium, requests, gspread)
