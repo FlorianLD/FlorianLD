@@ -18,3 +18,5 @@ Business/Tech Stack:
 - Postman
 - Figma
 - SQL/DAX/Python (pandas, selenium, requests, gspread)
+
+- [Resume](https://drive.google.com/file/d/1o4PYSon-yh6_Fe-cLVHPqwmygvL9SEpu/view?usp=drive_link)
