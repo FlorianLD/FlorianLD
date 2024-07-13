@@ -11,4 +11,4 @@ Business/Tech Stack:
 - Confluence
 - Postman
 - Figma
-- SQL/DAX/Python (pandas, selenium, requests, gspread)
+- SQL/DAX/Python (pandas, selenium, requests, flask)
