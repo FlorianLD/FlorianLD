@@ -7,8 +7,8 @@ Business/Tech Stack:
 - Excel/Google Sheets
 - Power BI
 - Salesforce
+- AWS
 - Jira
 - Confluence
-- Postman
 - Figma
 - SQL/DAX/Python (pandas, selenium, requests, flask)
